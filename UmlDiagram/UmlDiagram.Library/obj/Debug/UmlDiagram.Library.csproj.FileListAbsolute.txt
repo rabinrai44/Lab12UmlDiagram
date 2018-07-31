@@ -1,0 +1,6 @@
+c:\users\gc student\source\repos\UmlDiagram\UmlDiagram.Library\bin\Debug\UmlDiagram.Library.dll
+c:\users\gc student\source\repos\UmlDiagram\UmlDiagram.Library\bin\Debug\UmlDiagram.Library.pdb
+c:\users\gc student\source\repos\UmlDiagram\UmlDiagram.Library\obj\Debug\UmlDiagram.Library.csprojResolveAssemblyReference.cache
+c:\users\gc student\source\repos\UmlDiagram\UmlDiagram.Library\obj\Debug\UmlDiagram.Library.csproj.CoreCompileInputs.cache
+c:\users\gc student\source\repos\UmlDiagram\UmlDiagram.Library\obj\Debug\UmlDiagram.Library.dll
+c:\users\gc student\source\repos\UmlDiagram\UmlDiagram.Library\obj\Debug\UmlDiagram.Library.pdb
