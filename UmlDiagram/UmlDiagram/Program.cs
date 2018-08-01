@@ -11,20 +11,17 @@ namespace UmlDiagram
     {
         static void Main(string[] args)
         {
+            //creating object
+            var p = new Person("Rabin", "384 wingate");
+            var s = new Student("Rabin Rai", "3828 wingate", "C# .NET Bootcamp", 2018, 9873.83);
+            var st = new Staff("Justine Jone", "40 Pearl st", "Grand Circus", 60000.87);
 
-            List<Person> peoples = new List<Person>();
+            Console.WriteLine(p);
+            Console.WriteLine(s);
+            Console.WriteLine(st);
 
-            new Student("Rabin", "101 wingate", "C#.Net Bootcamp", 2018, 9875.60);
-            new Student("Sean A", "210 Wingate", "C#.Net Bootcamp", 2018, 9855.65);
+            Console.ReadLine();
 
-           
-
-            foreach(Person people in peoples)
-            {
-                Console.WriteLine($"{people}");
-            }
-
-            Console.ReadKey();
         }
     }
 }

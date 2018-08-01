@@ -1,9 +1,18 @@
-c:\users\gc student\source\repos\UmlDiagram\UmlDiagram\bin\Debug\UmlDiagram.exe.config
-c:\users\gc student\source\repos\UmlDiagram\UmlDiagram\bin\Debug\UmlDiagram.exe
-c:\users\gc student\source\repos\UmlDiagram\UmlDiagram\bin\Debug\UmlDiagram.pdb
-c:\users\gc student\source\repos\UmlDiagram\UmlDiagram\bin\Debug\UmlDiagram.Library.dll
-c:\users\gc student\source\repos\UmlDiagram\UmlDiagram\bin\Debug\UmlDiagram.Library.pdb
-c:\users\gc student\source\repos\UmlDiagram\UmlDiagram\obj\Debug\UmlDiagram.csprojResolveAssemblyReference.cache
-c:\users\gc student\source\repos\UmlDiagram\UmlDiagram\obj\Debug\UmlDiagram.csproj.CoreCompileInputs.cache
-c:\users\gc student\source\repos\UmlDiagram\UmlDiagram\obj\Debug\UmlDiagram.exe
-c:\users\gc student\source\repos\UmlDiagram\UmlDiagram\obj\Debug\UmlDiagram.pdb
+c:/users/gc student/source/repos/UmlDiagram/UmlDiagram/bin/Debug/UmlDiagram.exe.config
+c:/users/gc student/source/repos/UmlDiagram/UmlDiagram/bin/Debug/UmlDiagram.exe
+c:/users/gc student/source/repos/UmlDiagram/UmlDiagram/bin/Debug/UmlDiagram.pdb
+c:/users/gc student/source/repos/UmlDiagram/UmlDiagram/bin/Debug/UmlDiagram.Library.dll
+c:/users/gc student/source/repos/UmlDiagram/UmlDiagram/bin/Debug/UmlDiagram.Library.pdb
+c:/users/gc student/source/repos/UmlDiagram/UmlDiagram/obj/Debug/UmlDiagram.csprojResolveAssemblyReference.cache
+c:/users/gc student/source/repos/UmlDiagram/UmlDiagram/obj/Debug/UmlDiagram.csproj.CoreCompileInputs.cache
+c:/users/gc student/source/repos/UmlDiagram/UmlDiagram/obj/Debug/UmlDiagram.exe
+c:/users/gc student/source/repos/UmlDiagram/UmlDiagram/obj/Debug/UmlDiagram.pdb
+/Users/rabin/Projects/Lab12UmlDiagram/UmlDiagram/UmlDiagram/bin/Debug/UmlDiagram.exe.config
+/Users/rabin/Projects/Lab12UmlDiagram/UmlDiagram/UmlDiagram/bin/Debug/UmlDiagram.exe
+/Users/rabin/Projects/Lab12UmlDiagram/UmlDiagram/UmlDiagram/bin/Debug/UmlDiagram.pdb
+/Users/rabin/Projects/Lab12UmlDiagram/UmlDiagram/UmlDiagram/bin/Debug/UmlDiagram.Library.dll
+/Users/rabin/Projects/Lab12UmlDiagram/UmlDiagram/UmlDiagram/bin/Debug/UmlDiagram.Library.pdb
+/Users/rabin/Projects/Lab12UmlDiagram/UmlDiagram/UmlDiagram/obj/Debug/UmlDiagram.csprojResolveAssemblyReference.cache
+/Users/rabin/Projects/Lab12UmlDiagram/UmlDiagram/UmlDiagram/obj/Debug/UmlDiagram.csproj.CoreCompileInputs.cache
+/Users/rabin/Projects/Lab12UmlDiagram/UmlDiagram/UmlDiagram/obj/Debug/UmlDiagram.exe
+/Users/rabin/Projects/Lab12UmlDiagram/UmlDiagram/UmlDiagram/obj/Debug/UmlDiagram.pdb

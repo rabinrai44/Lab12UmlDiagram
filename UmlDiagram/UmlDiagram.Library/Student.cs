@@ -21,7 +21,7 @@ namespace UmlDiagram.Library
 
         public override string ToString()
         {
-            return $"{_program}, {_year}, {_fee}";
+            return $"{GetName()}, {GetAddress()}, {_program}, {_year}, {_fee}";
         }
     }
 }
