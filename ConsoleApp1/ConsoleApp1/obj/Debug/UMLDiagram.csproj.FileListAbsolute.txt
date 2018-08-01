@@ -1,7 +1,0 @@
-C:\Users\GC Student\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
-C:\Users\GC Student\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
-C:\Users\GC Student\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
-C:\Users\GC Student\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\UMLDiagram.csprojResolveAssemblyReference.cache
-C:\Users\GC Student\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\UMLDiagram.csproj.CoreCompileInputs.cache
-C:\Users\GC Student\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
-C:\Users\GC Student\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
